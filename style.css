@@ -630,7 +630,7 @@ img{
     -webkit-box-flex: 1;
     flex: 1;
     display: block;
-    background-color: #f6f6fe;
+    background-color: #FBF4F4;
     cursor: not-allowed;
     margin-right: 5%;
 
@@ -657,7 +657,7 @@ img{
     -webkit-box-flex: 1;
     flex: 1;
     display: block;
-    background-color: #f6f6fe;
+    background-color: #F2F7F2;
     cursor: not-allowed;
     overflow: hidden;
     width: 100%;

@@ -300,6 +300,7 @@ img{
     background-color: #f6f6fe;
     cursor: not-allowed;
     margin-right: 5%;
+    margin-bottom:5%;
     overflow: hidden;
     width: 100%;
     height: 100%;
@@ -461,7 +462,7 @@ img{
     min-height: 0px;
     -webkit-box-flex: 1;
     flex: 1;
-    margin-right: 0%;
+    margin-bottom:5%;
     background-color: #f2f6ff;
     overflow: hidden;
     width: 100%;
